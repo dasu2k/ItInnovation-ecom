@@ -1,0 +1,29 @@
+
+
+:root{
+    
+}
+
+.navbar{
+    font-family: "Playfair Display";
+    background-color: black;
+    padding : 0.001em 1em;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.NavButtons button{
+    padding: 0.5em 1em;
+    margin: 0em 0.4em;
+    background-color: white;
+    border-radius:0px ;
+    border: none;
+}
+
+.NavButtons button:hover{
+    color:white;
+    background-color: black;
+}
+
